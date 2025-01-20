@@ -47,3 +47,11 @@ python main.py --method {['guo', 'sajid', 'yu']} --epoch {NUMBER_EPOCH} --lr {LE
 
 ```bash
 python validate.py --method {['guo', 'sajid', 'yu']} --load_model {SAVED_WEIGHT_NAME}```
+```
+
+#### References
+[1] Zhexiao Guo, Minmin Shen, Le Duan, Yongjin Zhou, Jianghuai Xiang, Huijun Ding, Shifeng Chen, Oliver Deussen, and Guo Dan. Deep assessment process: Objective assessment process for unilateral peripheral facial paralysis via deep convolutional neural network. In 2017 IEEE 14th international symposium on biomedical imaging (ISBI 2017), pages 135–138. IEEE, 2017.
+
+[2] Muhammad Sajid, Tamoor Shafique, Mirza Jabbar Aziz Baig, Imran Riaz, Shahid Amin, and Sohaib Manzoor. Automatic grading of palsy using asymmetrical facial features: a study complemented by new solutions. Symmetry, 10(7):242, 2018.
+
+[3] Mingli Yu, Tongan Cai, Xiaolei Huang, Kelvin Wong, John Volpi, James Z Wang, and Stephen TC Wong. Toward rapid stroke diagnosis with multimodal deep learning. In Medical Image Computing and Computer Assisted Intervention–MICCAI 2020: 23rd International Conference, Lima, Peru, October 4–8, 2020, Proceedings, Part III 23, pages 616–626. Springer, 2020.
