@@ -1,5 +1,7 @@
 # Stroke/Facial Palsy assessment - Implementation of the SOTA
 
+Implementations of the methods proposed by Guo et al. [1]
+
 ### Environment
 
 #### Python version: 3.8.10
