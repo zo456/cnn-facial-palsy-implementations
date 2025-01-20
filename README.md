@@ -1,6 +1,7 @@
 # Stroke/Facial Palsy assessment - Implementation of the SOTA
 
-Implementations of the methods proposed by Guo et al. [1]
+Implementations of the methods proposed by Guo et al. [1], Sajid et al. [2], and Yu et al. [3]. For the method by Yu et al., we recommend using their own official repo at: 
+https://github.com/0CTA0/MICCAI20_MMDL_PUBLIC.git
 
 ### Environment
 
